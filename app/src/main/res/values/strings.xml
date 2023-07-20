@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GPS_semestralka</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="speed">Speed:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="address">Address:</string>
+    <string name="addNewCoordinates">Add new Coordinates</string>
+    <string name="showSavedCoordinates">Show saved coordinates</string>
+    <string name="defaultValue" translatable="false">0.00</string>
+    <string name="delete">Delete?</string>
+    <string name="deleteMessage">Are you sure you want to delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="locationName">Edit location name:</string>
+    <string name="locationName_default">Unknown location</string>
+    <string name="editName">Edit location name</string>
+    <string name="enterNewName">Enter new name:</string>
+    <string name="savedToDB">Saved data to DB</string>
+    <string name="failedToSave">Failed to save to DB</string>
+    <string name="notAvailable">Not available</string>
+    <string name="nameLocation">Name:</string>
+</resources>

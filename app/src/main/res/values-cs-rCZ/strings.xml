@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS_semestrální_práce</string>
+    <string name="latitude">Zeměpisná šířka:</string>
+    <string name="longitude">Zeměpisná délka:</string>
+    <string name="altitude">Nadmořská výška:</string>
+    <string name="speed">Rychlost:</string>
+    <string name="accuracy">Přesnost:</string>
+    <string name="address">Adresa:</string>
+    <string name="addNewCoordinates">Přidat aktuální místo</string>
+    <string name="showSavedCoordinates">Zobrazit seznam míst</string>
+    <string name="delete">Vymazat záznam</string>
+    <string name="deleteMessage">Opravdu chcete vymazat řádek</string>
+    <string name="cancel">Zrušit</string>
+    <string name="ok">OK</string>
+    <string name="locationName">Zadej název lokace:</string>
+    <string name="locationName_default">Nepojmenovaná lokace</string>
+    <string name="enterNewName">Zadej nové jméno:</string>
+    <string name="editName">Změna názvu lokace</string>
+    <string name="savedToDB">Data byla uložena</string>
+    <string name="failedToSave">Chyba při ukládání dat</string>
+    <string name="notAvailable">Nedostupné</string>
+    <string name="nameLocation">Název lokace:</string>
+</resources>
